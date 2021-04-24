@@ -1,3 +1,8 @@
+| | |
+| :-----------: | -------------: |
+| ![](https://www.unirioja.es/imagenes/cabecera/cabecera_r1_c1.gif) | Metodologías avanzadas de programación para la ciencia de datos <br> Máster universitario en Ciencia de Datos y Aprendizaje Automático <br> Curso 2020 / 2021 |
+| Fecha:   24 / 04 / 2021 | Nombre DIEGO POLO BENITO |
+
 ## Introduccion a OpenMP
 
 OpenMP (Open MultiProcessing) es un modelo de programación paralela basado en directivas del compilador que permite añadir paralelismo al código.vConsiste en un conjunto de directivas del compilador #pragma, rutinas y variables de entorno que influyen en el comportamiento en tiempo de ejecución. Está disponible para Fortran, C y C++
