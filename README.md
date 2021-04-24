@@ -51,3 +51,6 @@ Si el numero de hilos es diferente al de sections el sistema reparte las section
 
 A veces solo es necesario paralelizar aquellas operaciones que merezca la pena hacerse en paralelo por su coste computacional, teniendo en cuenta que la paralelización penaliza la ejecución al tener que crear los hilos y puede ser mas rapido no paralelizar.
 En los ejemplos se puede ver con un ejemplo como para vectores de tamaño pequeño es mas costosa la parelelización que el proceso secuencial. Se puede controlar si un proceso se paraleliza o no mediante la directiva `#pragma omp parallel if (_variable condicion_)`
+
+## Conclusiones
+OpenMP me parece una forma cómoda de paralelizar código y parece bastante sencilla de usar. Parece versátil ya que dota de muchos mecanismos y funciones al programador y además de una forma transparente para este.
